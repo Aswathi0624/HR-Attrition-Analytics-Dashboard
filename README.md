@@ -127,5 +127,6 @@ Analyzes engagement and satisfaction factors affecting attrition.
 
 <img width="1215" height="650" alt="3" src="https://github.com/user-attachments/assets/3ed5ae92-d678-4bb3-96da-be47fd4f8eb8" />
 
-<img width="1215" height="650" alt="4" src="https://github.com/user-attachments/assets/1b6a0e88-2210-42ea-a68c-8dc0a793af4e" />
+<img width="1215" height="650" alt="4" src="https://github.com/user-attachments/assets/2a697796-573d-446d-9fb4-192b851d51a3" />
+
 
