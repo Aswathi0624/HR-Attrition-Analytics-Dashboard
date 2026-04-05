@@ -64,7 +64,7 @@ Provides a high-level snapshot of workforce status.
 - Department-wise employee distribution
 - Gender-based attrition comparison
 - Overall workforce composition
-- 
+  
 ### 2. Demographic Analysis
 Analyzes how personal attributes influence attrition.
 #### Key Visuals:
