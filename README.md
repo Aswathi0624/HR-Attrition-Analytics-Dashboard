@@ -1,10 +1,9 @@
 # HR-Attrition-Analytics-Dashboard
 
 ## Project Overview
-This project presents a comprehensive, multi-page HR Attrition Analytics Dashboard developed using Microsoft Power BI. It is designed to help HR leaders and business stakeholders analyze workforce dynamics, uncover attrition patterns, and drive strategic retention decisions.
+This project presents a comprehensive, multi-page HR Attrition Analytics Dashboard developed using Microsoft Power BI to analyze employee turnover, workforce trends, and engagement metrics.
 
-By integrating employee demographics, compensation, job roles, and satisfaction metrics, the dashboard provides a holistic, data-driven view of employee behavior and organizational health.
-
+The dashboard transforms raw HR data into actionable insights to identify attrition drivers and improve employee retention strategies.
 ## Objectives
 - Analyze employee attrition patterns
 - Identify high-risk departments and roles
