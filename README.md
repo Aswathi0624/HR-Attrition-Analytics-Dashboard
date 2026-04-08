@@ -121,7 +121,7 @@ Analyzes engagement and satisfaction factors affecting attrition.
 
 ## How to Use
 1. Download or clone this repository
-2.Open the .pbix file in Microsoft Power BI Desktop
+2. Open the .pbix file in Microsoft Power BI Desktop
 3. Load or refresh the dataset
 4. Navigate through report pages
 5. Interact with visuals and hover for details
