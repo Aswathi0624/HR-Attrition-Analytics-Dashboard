@@ -119,13 +119,22 @@ Analyzes engagement and satisfaction factors affecting attrition.
 - Tooltip-based detailed analysis
 - Multi-page navigation for structured exploration
 
+## How to Use
+1. Download or clone this repository
+2.Open the .pbix file in Microsoft Power BI Desktop
+3. Load or refresh the dataset
+4. Navigate through report pages
+5. Interact with visuals and hover for details
+
 ##  Screenshots
-<img width="1215" height="650" alt="1" src="https://github.com/user-attachments/assets/d7279d5e-b272-464a-9e15-760597f20c7b" />
+<img width="1215" height="650" alt="1" src="https://github.com/user-attachments/assets/b5d2a799-36a0-4a44-a5b2-6a9f5136cab3" />
 
 <img width="1215" height="650" alt="2" src="https://github.com/user-attachments/assets/714b6f70-bb5c-4e4a-afe3-fc04892a5801" />
 
 <img width="1215" height="650" alt="3" src="https://github.com/user-attachments/assets/3ed5ae92-d678-4bb3-96da-be47fd4f8eb8" />
 
 <img width="1215" height="650" alt="4" src="https://github.com/user-attachments/assets/2a697796-573d-446d-9fb4-192b851d51a3" />
+
+
 
 
